@@ -1,0 +1,10 @@
+.slider-container{
+    width: 1160px;
+    height: 277px;
+    text-align: center;
+    overflow-x: scroll;
+}
+.images-container{
+    display: flex;
+    justify-content: space-evenly;
+}

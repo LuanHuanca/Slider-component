@@ -1,0 +1,34 @@
+[
+    {
+        "id": 1,
+        "imgsrc":"/static/images/Rectangle 1.jpg"
+    },
+    {
+        "id": 2,
+        "imgsrc":"/static/images/Rectangle 2.jpg"
+    },
+    {
+        "id": 3,
+        "imgsrc":"/static/images/Rectangle 3.jpg"
+    },
+    {
+        "id": 4,
+        "imgsrc":"/static/images/Rectangle 4.jpg"
+    },
+    {
+        "id": 5,
+        "imgsrc":"/static/images/Rectangle 5.jpg"
+    },
+    {
+        "id": 6,
+        "imgsrc":"/static/images/Rectangle 6.jpg"
+    },
+    {
+        "id": 7,
+        "imgsrc":"/static/images/Rectangle 7.jpg"
+    },
+    {
+        "id": 8,
+        "imgsrc":"/static/images/Rectangle 8.jpg"
+    }
+]
