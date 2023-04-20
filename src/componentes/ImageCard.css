@@ -1,12 +1,22 @@
 .img-container{
-    height: 277px;
+    height: 300px;
     width: 1160px;
-    border-radius: 10px;
+    border-radius: 15px;
     display: flex;
-    padding-left: -20px;
 }
 .img-container img{
     height: 277px;
     width: 367px;
-    border-radius: 10px; 
+    border-radius: 40px;
+    animation: float 2s linear infinite;
+    padding: 10px;
+}
+
+@keyframes float{
+    0%, 100%{
+        transform: translateY(0rem);
+    }
+    50%{
+        transform: translateY(-1.5rem);
+    }
 }
