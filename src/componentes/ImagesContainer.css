@@ -3,6 +3,7 @@
     height: 277px;
     text-align: center;
     overflow-x: scroll;
+    padding: 20px;
 }
 .images-container{
     display: flex;
