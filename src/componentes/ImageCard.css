@@ -1,13 +1,13 @@
 .img-container{
     height: 277px;
     width: 1160px;
-    border-radius: 0px;
+    border-radius: 10px;
     display: flex;
     padding-left: 20px;
 }
 .img-container img{
     height: 277px;
     width: 367px;
-    border-radius: 0px;
+    border-radius: 10px;
     
 }
