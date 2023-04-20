@@ -3,6 +3,7 @@
     width: 1160px;
     border-radius: 0px;
     display: flex;
+    padding-left: 20px;
 }
 .img-container img{
     height: 277px;
