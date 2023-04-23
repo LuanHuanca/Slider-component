@@ -1,4 +1,6 @@
-
+.images-container img {
+    transition: filter 0.3s ease, opacity 0.3s ease;
+}
 .slider-container{
     width: 1000px;
     text-align: center;
