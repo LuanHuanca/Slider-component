@@ -1,12 +1,19 @@
 .img-container{
     height: 277px;
     width: 1160px;
-    border-radius: 10px;
+    border-radius: 15px;
     display: flex;
-    padding-left: 20px;
 }
+.elipse{
+    width: 100%;
+    background: #FFFFFF;
+    height: 70px; /* Alto del div */
+    border-radius: 50%;
+}
+
 .img-container img{
     height: 277px;
     width: 367px;
-    border-radius: 10px; 
+    border-radius: 40px;
+    padding: 10px;
 }

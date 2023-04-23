@@ -4,8 +4,9 @@ import images from '../assets/images.json'
 import "./ImagesContainer.css"
 export const ImagesContainer = () => {
   return (
-    <section className="slider-container">
-        <h6>Imagenes</h6>
+    <div className="slider-container">
+        <h1>Imagenes</h1>
+        <div className='elipse'></div>
       <div className="images-container">
           {
             images.map((image)=>{
@@ -13,7 +14,8 @@ export const ImagesContainer = () => {
             })
           }
       </div>
-    </section>
+      <div className='elipse'></div>
+    </div>
   )
 }
 
