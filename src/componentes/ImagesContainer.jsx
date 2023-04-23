@@ -6,7 +6,6 @@ export const ImagesContainer = () => {
   return (
     <div className="slider-container">
         <h1>Imagenes</h1>
-        <div className='elipse'></div>
       <div className="images-container">
           {
             images.map((image)=>{
@@ -14,7 +13,6 @@ export const ImagesContainer = () => {
             })
           }
       </div>
-      <div className='elipse'></div>
     </div>
   )
 }
