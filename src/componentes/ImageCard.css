@@ -10,5 +10,6 @@
     border-radius: 40px;
     padding: 10px;
     transition: all 300ms;
-    
+    filter: blur(3.5px);
+    opacity: 0.85;
 }
