@@ -3,6 +3,7 @@
     width: 1160px;
     border-radius: 15px;
     display: flex;
+    margin: 20px;
 }
 .img-container img{
     height: 277px;
