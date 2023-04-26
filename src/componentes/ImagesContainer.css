@@ -4,7 +4,7 @@
     overflow: hidden;
     padding: 20px;
     margin: auto;
-    background-color: aqua;
+    background-color: black;
     border-radius: 20px;
     border: 3px solid greenyellow;
     margin-top: 100px;
@@ -23,9 +23,12 @@
     -webkit-animation: scroll 13s linear infinite;
     width: calc(200px * 14);
 }
+
 .images-container:hover{
     animation-play-state: paused;
     cursor: pointer;
+    opacity: 1;
+    filter: contrast(120%);
 }
 
 .images-container img:hover{

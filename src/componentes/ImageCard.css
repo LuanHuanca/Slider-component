@@ -5,9 +5,10 @@
     display: flex;
 }
 .img-container img{
-    height: 277px;
-    width: 367px;
-    border-radius: 40px;
+    width: 0px;
+    flex-grow: 1;
+    object-fit: cover;
+    transition: .5s ease;
+    border-radius: 50px;
     padding: 10px;
-    transition: all 300ms;
 }
