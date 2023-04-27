@@ -17,5 +17,18 @@
     "@types/react-dom": "^18.0.11",
     "@vitejs/plugin-react": "^3.1.0",
     "vite": "^4.2.0"
-  }
+  },
+  "description": "Integrantes del proyecto: Choque Mamani Victor Yerson Huanca Mamani Luis Angel Justiniano Salazar Marco Antonio Palacios Gironas Jose Luis Vargas Rojas Xavier Francisco Veliz Benavides Samuel Antonio",
+  "main": "vite.config.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LuanHuanca/Slider-component.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LuanHuanca/Slider-component/issues"
+  },
+  "homepage": "https://github.com/LuanHuanca/Slider-component#readme"
 }
