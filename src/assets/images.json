@@ -1,34 +1,30 @@
 [
     {
         "id": 1,
-        "imgsrc":"/static/images/Rectangle 1.jpg"
+        "imgsrc":"https://images.unsplash.com/photo-1567449303055-2cd2ef5c4e74?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTJ8fGdyYW5kZXN8ZW58MHx8MHx8&w=1000&q=80"
     },
     {
         "id": 2,
-        "imgsrc":"/static/images/Rectangle 2.jpg"
+        "imgsrc":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQOto-RGrX_nyVnRXUGvf8V3Jl0LQA0iA0QwqfNc3rL0qLE90IApXGe-d97qpha7n-pJA&usqp=CAU"
     },
     {
         "id": 3,
-        "imgsrc":"/static/images/Rectangle 3.jpg"
+        "imgsrc":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREmOMEZty7WeEh8rECbrUV4x1qUS5qGiPYrgM1RhjE4n6iZUacWZv96E0Efi5_5psPINA&usqp=CAU"
     },
     {
         "id": 4,
-        "imgsrc":"/static/images/Rectangle 4.jpg"
+        "imgsrc":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtaXnBVN4awMTU1TmV1PuX6qdPRqVXeARPpGIW9fqOjgjEJiWVLp6ZytIIMtlIrvdbjFY&usqp=CAU"
     },
     {
         "id": 5,
-        "imgsrc":"/static/images/Rectangle 5.jpg"
+        "imgsrc":"https://i.etsystatic.com/18970198/r/il/421bc7/3968145715/il_fullxfull.3968145715_k12n.jpg"
     },
     {
         "id": 6,
-        "imgsrc":"/static/images/Rectangle 6.jpg"
+        "imgsrc":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSm4ORq_E5BrDojZAstU2OWua0FUFnepBqBwT8GfRLkt1FakX93Xr92FYO9Iq3t_e4tjok&usqp=CAU"
     },
     {
         "id": 7,
-        "imgsrc":"/static/images/Rectangle 7.jpg"
-    },
-    {
-        "id": 8,
-        "imgsrc":"/static/images/Rectangle 8.jpg"
+        "imgsrc":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnRTfR71E8MY8Oq7Rri8bln9Hugn1XTMafyWjuzuWg43UHMrYHXivpvHdugl902jNA_O4&usqp=CAU"
     }
 ]
