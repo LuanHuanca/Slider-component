@@ -1,5 +1,5 @@
 {
-  "name": "slider-component",
+  "name": "openhouse2",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -17,5 +17,22 @@
     "@types/react-dom": "^18.0.11",
     "@vitejs/plugin-react": "^3.1.0",
     "vite": "^4.2.0"
-  }
+  },
+  "description": "Integrantes del proyecto: Choque Mamani Victor Yerson Huanca Mamani Luis Angel Justiniano Salazar Marco Antonio Palacios Gironas Jose Luis Vargas Rojas Xavier Francisco Veliz Benavides Samuel Antonio",
+  "main": "src/main.jsx",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LuanHuanca/Slider-component.git"
+  },
+  "keywords": [
+    "javascripit",
+    "node",
+    "npm"
+  ],
+  "author": "tercerosGroup2",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LuanHuanca/Slider-component/issues"
+  },
+  "homepage": "https://github.com/LuanHuanca/Slider-component#readme"
 }
